@@ -1,6 +1,6 @@
 import { Switch, Route, BrowserRouter } from 'react-router-dom';
 
-import 'rsuite/dist/styles/rsuite-default.css';
+import 'rsuite/dist/rsuite.min.css';
 import './styles/main.scss';
 
 function App() {
